@@ -1,7 +1,7 @@
 # Capstone-III-Movielens-EDA-Visualisation
 Merge 3 .dat files using primary keys and apply exploratory data analysis and visualisations for insights and opportunities
 
-CONTENTS
+# CONTENTS
 1.	Introduction
 2.	Data Cleaning
 3.	Missing Data
@@ -9,13 +9,13 @@ CONTENTS
 
 Conduct an Exploratory Data Analysis (EDA) on the MovieLens dataset to get insights, clean the data and answer some questions.  The data needs to be joined as it is in 3 different files and then analysed.
 
-Approach
+# Approach
 •	Finding patterns in data.
 •	Determining relationships in data.
 •	Checking of assumptions.
 •	Drawing conclusions.
 
-What question(s) are you trying to solve (or prove wrong)?
+# What question(s) are you trying to solve (or prove wrong)?
 1.	Determine user rating for a single movie or determine performance between sequels.
 2.	Understand viewership by age group for targeted marketing, retention activities or market expansion.
 3.	Insight to the top 25 movies by viewership rating, indicating type of movies or sequels that perform better.
@@ -23,7 +23,7 @@ What question(s) are you trying to solve (or prove wrong)?
 5.  Insights to user level detail that can lead to more movies being watched and enjoyed and potential for higher NPS scores. 
 6.  Possible future insights for the movie production industry on whom to market, including cinema insight for their websites. 
 
-Feature Attributes:
+# Feature Attributes:
 MovieID – numeric count of the number of movies, range between 1 and 3952
 Title – movie title (and year)
 Genres – classification of movie type
